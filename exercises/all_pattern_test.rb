@@ -1,6 +1,7 @@
 gem 'minitest'
 require 'minitest/autorun'
 require 'minitest/pride'
+require './all_pattern'
 
 class AllPatternTest < Minitest::Test
 
